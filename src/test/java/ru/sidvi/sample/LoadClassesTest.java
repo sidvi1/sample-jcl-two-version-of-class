@@ -1,10 +1,5 @@
 package ru.sidvi.sample;
 
-//import org.apache.http.HttpEntity;
-//import org.apache.http.HttpResponse;
-//import org.apache.http.client.HttpClient;
-//import org.apache.http.client.methods.HttpGet;
-
 import org.junit.BeforeClass;
 import org.junit.Test;
 import org.xeustechnologies.jcl.JarClassLoader;
